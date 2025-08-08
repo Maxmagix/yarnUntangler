@@ -17,8 +17,6 @@ You can use the jupyterNotebook for easier readability/choice of functions:
 
 or run:
 
-> python3 -m venv ./venv
-
 > ./venv/bin/pip3 install -r requirements.txt
 
 > ./venv/bin/python3 main.py
